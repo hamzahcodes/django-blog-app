@@ -58,6 +58,7 @@ a:hover {
     display: flex;
     flex-flow: column;
     gap: 1rem;
+    max-width: 500px;
 }
 
 .form-with-validation div {
